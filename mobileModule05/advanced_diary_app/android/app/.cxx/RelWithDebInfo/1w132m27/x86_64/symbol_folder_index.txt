@@ -1,0 +1,1 @@
+/home/eates/Desktop/42-Kocaeli-Mobile-4/mobileModule04/advanced_diary_app/build/app/intermediates/cxx/RelWithDebInfo/1w132m27/obj/x86_64

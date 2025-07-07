@@ -1,0 +1,2 @@
+/home/eates/Desktop/42-Kocaeli-Mobile-4/mobileModule04/advanced_diary_app/android/app/.cxx/RelWithDebInfo/1w132m27/x86_64/CMakeFiles/edit_cache.dir
+/home/eates/Desktop/42-Kocaeli-Mobile-4/mobileModule04/advanced_diary_app/android/app/.cxx/RelWithDebInfo/1w132m27/x86_64/CMakeFiles/rebuild_cache.dir

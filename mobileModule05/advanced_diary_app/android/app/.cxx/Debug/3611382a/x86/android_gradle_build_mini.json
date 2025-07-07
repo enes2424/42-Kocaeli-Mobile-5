@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/sgoinfre/eates/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/sgoinfre/eates/Android_SDK/cmake/3.31.5/bin/ninja",
+      "-C",
+      "/home/eates/Desktop/42-Kocaeli-Mobile-4/mobileModule04/advanced_diary_app/android/app/.cxx/Debug/3611382a/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/sgoinfre/eates/Android_SDK/cmake/3.31.5/bin/ninja",
+    "-C",
+    "/home/eates/Desktop/42-Kocaeli-Mobile-4/mobileModule04/advanced_diary_app/android/app/.cxx/Debug/3611382a/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
