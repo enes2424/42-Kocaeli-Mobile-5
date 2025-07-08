@@ -314,13 +314,21 @@ Future<bool> viewDiaryEntry(
   return false;
 }
 
-Card diaryEntryCard(
+Card? diaryEntryCard(
   BuildContext context,
   dynamic diaryEntry, {
   required double width,
   required Function() setState,
+  DateTime? selectedDay,
 }) {
   final DateTime date = DateTime.parse(diaryEntry["date"]).toLocal();
+
+  if (selectedDay != null &&
+      (date.year != selectedDay.year ||
+          date.month != selectedDay.month ||
+          date.day != selectedDay.day)) {
+    return null;
+  }
 
   return Card(
     margin: const EdgeInsets.symmetric(vertical: 10.0),
